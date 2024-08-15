@@ -1,9 +1,9 @@
 Hey, This is Mahendra Learning DevOps
 I am using GitHub frequently
 In git branch is lightweight
-Git branch 
-It's Monday today
+Git branch
 Changes in process
 Good Evening
 Have a great day..!!
+
 
